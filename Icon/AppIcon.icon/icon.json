@@ -1,0 +1,48 @@
+{
+  "fill" : {
+    "automatic-gradient" : "display-p3:0.18000,0.19000,0.26000,1.00000"
+  },
+  "groups" : [
+    {
+      "name" : "Cover",
+      "layers" : [
+        {
+          "name" : "cover",
+          "image-name" : "cover.png"
+        }
+      ],
+      "shadow" : {
+        "kind" : "layer-color",
+        "opacity" : 0.5
+      },
+      "translucency" : {
+        "enabled" : false,
+        "value" : 0.5
+      }
+    },
+    {
+      "name" : "Menu Bar",
+      "layers" : [
+        {
+          "name" : "dots",
+          "image-name" : "dots.png"
+        },
+        {
+          "name" : "bar",
+          "image-name" : "bar.png"
+        }
+      ],
+      "shadow" : {
+        "kind" : "neutral",
+        "opacity" : 0.5
+      },
+      "translucency" : {
+        "enabled" : true,
+        "value" : 0.4
+      }
+    }
+  ],
+  "supported-platforms" : {
+    "squares" : "shared"
+  }
+}
