@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="docs/images/icon.png" alt="MenuBar Cover icon" width="128" height="128">
+<img src="docs/images/social-preview.png" alt="MenuBar Cover: hide menu bar icons on the screens you record" width="100%">
 
 # MenuBar Cover
 
